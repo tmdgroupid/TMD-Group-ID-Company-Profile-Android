@@ -20,7 +20,8 @@ How to Use in PC?:
 5. Setting JAVA_HOME Environment Variabek in Path System: ADD VARIABEL JAVA_HOME LOCATE JAVA SDK INSTALLED.
 6. Open CMD, type in CMD: flutter pub get for get library in file pubspec.yml, and flutter run for open emulator android.
 7. If error flutter run,please download Android Studio for Emulator Android: [Download Android Studio](https://developer.android.com/studio)
-8. flutter build apk for get file apk and build file apk.
+8. flutter build apk for get file apk.
+9. flutter build appbundle for get file aab.
 
 
 How to use in Website?
